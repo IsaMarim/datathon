@@ -8,8 +8,13 @@ Pedro Bugui Garcia - RM 360783
 
 Sophia Yeshua Senra - RM 362887
 
-Link da apresentação: https://1drv.ms/p/c/83efdf5b145d00ba/IQC2gcHFUXIoTr3gAEAP9Un7ARsHPoGi5rXiv850q8TTZXg?e=glOZHV
+#
 
+**Link da apresentação:** https://1drv.ms/p/c/83efdf5b145d00ba/IQC2gcHFUXIoTr3gAEAP9Un7ARsHPoGi5rXiv850q8TTZXg?e=glOZHV
+
+**Link Streamlit:** [https://datathon-etdflnq7x23rkcwdygwjn7.streamlit.app](https://datathon-etdflnq7x23rkcwdygwjn7.streamlit.app/)
+
+#
 
 ## Introdução
 
