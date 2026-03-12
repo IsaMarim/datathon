@@ -40,7 +40,7 @@ Neste contexto, o presente projeto tem como objetivo analisar dados educacionais
 ├── 📄 app.py                       # Aplicação principal em Streamlit
 │                                   Responsável pela interface interativa e predição do nível de risco
 │
-├── 📄 modelo_rl.joblib             # Modelo Regressão Logística treinado e exportado
+├── 📄 modelo_fr.joblib             # Modelo Random Forest treinado e exportado
 │                                   Carregado pelo app Streamlit para realizar previsões em tempo real
 │
 ├── 📄 requirements.txt             # Lista de dependências e versões utilizadas no projeto
