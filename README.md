@@ -62,6 +62,6 @@ Os dados coletados entre 2022 e 2024 permitem uma análise do desenvolvido educa
 
 O modelo de machine learning desenvolvido mostrou resultados favoráveis para identificar dimensões do desenvolvimento educacional, permitindo com que a equipe pedagógica e psicológica não só antecipe potenciais quedas de desempenho ou aumento da defasagem do aluno como também interfira e de o suporte necessário para o desenvolvimento do estudante. 
 
-De modo geral, o programa Associação Passos Mágicos promove a evolução educacional, fortalecendo a aprendizagem do aluno e o apoio da equipe técnica. Para a continuidade do monitoramento com eficiência e confiabilidade do modelo é necessário manter registros consistentes e completos, medida essencial não apenas para as análises, mas também o apoio de decisão, contribuindo para intervenções mais estratégicas e eficazes.
+De modo geral, o programa Associação Passos Mágicos promove a evolução educacional, fortalecendo a aprendizagem do aluno e o apoio da equipe técnica. Para garantir a continuidade do monitoramento do modelo com eficiência e confiabilidade, é fundamental manter registros consistentes e completos ao longo do tempo e, sempre que possível, realizar seu retreinamento. Essa prática é essencial não apenas para aprimorar as análises, mas também para apoiar a tomada de decisão, contribuindo para intervenções mais estratégicas e eficazes.
 
 
