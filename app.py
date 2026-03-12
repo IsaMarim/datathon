@@ -190,4 +190,3 @@ if st.button('Enviar Formulário'):
     st.markdown("<br>", unsafe_allow_html=True)
     st.write(f"##### Probabilidade estimada: {valor*100:.2f}%")
     st.write(f"##### Classificação: {classificacao}")
-    st.write(resultado)
