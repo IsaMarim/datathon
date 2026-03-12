@@ -8,7 +8,7 @@ Pedro Bugui Garcia - RM 360783
 
 Sophia Yeshua Senra - RM 362887
 
-Link da apresentação: 
+Link da apresentação: https://1drv.ms/p/c/83efdf5b145d00ba/IQC2gcHFUXIoTr3gAEAP9Un7ARsHPoGi5rXiv850q8TTZXg?e=glOZHV
 
 
 ## Introdução
@@ -53,5 +53,10 @@ Neste contexto, o presente projeto tem como objetivo analisar dados educacionais
 
 ## Conclusão
 
-...
+Os dados coletados entre 2022 e 2024 permitem uma análise do desenvolvido educacional dos alunos, considerando não apenas desempenho acadêmico como engajamento nas atividades e nível de adequação, mas também aspectos comportamentais e pedagógicos. Os indicadores exerceram um impacto positivo nos alunos, mostrando a eficiência do suporte oferecido pelo programa da Associação Passos Mágicos. Observa-se um aumento significativo no nível de adequação e no desempenho acadêmico ao longo dos anos analisados, enquanto os aspectos psicossociais funcionaram como indicadores de alerta, permitindo a identificação de alunos em risco. Além disso, o ponto de virada revelou-se fortemente associado ao desempenho acadêmico e ao engajamento, ressaltando que o sucesso dos alunos depende da participação ativa e do incentivo a autoestima para uma percepção positiva em relação a si mesmo, sua capacidade e habilidades.
+
+O modelo de machine learning desenvolvido mostrou resultados favoráveis para identificar dimensões do desenvolvimento educacional, permitindo com que a equipe pedagógica e psicológica não só antecipe potenciais quedas de desempenho ou aumento da defasagem do aluno como também interfira e de o suporte necessário para o desenvolvimento do estudante. 
+
+De modo geral, o programa Associação Passos Mágicos promove a evolução educacional, fortalecendo a aprendizagem do aluno e o apoio da equipe técnica. Para a continuidade do monitoramento com eficiência e confiabilidade do modelo é necessário manter registros consistentes e completos, medida essencial não apenas para as análises, mas também o apoio de decisão, contribuindo para intervenções mais estratégicas e eficazes.
+
 
